@@ -17,3 +17,7 @@ Anggota :
 Kom : C
 
 Laboratorium Dasar Pemograman 5
+
+Prodi S1 Ilmu Komputer
+
+Universitas Sumatera Utara
