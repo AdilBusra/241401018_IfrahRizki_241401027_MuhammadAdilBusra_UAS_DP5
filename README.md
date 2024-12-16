@@ -7,7 +7,10 @@ Latar Belakang : Kami membuat Projek ini karena merasa bahwa reservasi tempat ha
 
 Nama Kelompok : Queen Never Cry
 Anggota :
+
 1. Ifrah Rizki (241401018)
 2. Muhammad Adil Busra (241401027)
+3. 
 Kom : C
+
 Laboratorium Dasar Pemograman 5
