@@ -7,6 +7,10 @@ Deskripsi : Projek ini adalah projek untuk membantu user dalam melakukan reserva
 
 Latar Belakang : Kami membuat Projek ini karena merasa bahwa reservasi tempat harus dilakukan dengan mudah dan efisien serta memberikan kebebasan bagi user untuk memikirkan menu yang ingin di pesannya.
 
+Link Gdrive Dokumentasi : https://drive.google.com/file/d/1u9srrQ8S99U9X-DcRIAG8rbkTmyhyqbQ/view?usp=drivesdk
+
+Link YouTube Video : https://youtu.be/IKyNqrsMgWY?si=oIIeZZGrIYMXgXu6
+
 
 Nama Kelompok : Queen Never Cry
 Anggota :
@@ -21,3 +25,4 @@ Laboratorium Dasar Pemograman 5
 Prodi S1 Ilmu Komputer
 
 Universitas Sumatera Utara
+
